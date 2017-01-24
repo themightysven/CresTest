@@ -1,0 +1,6 @@
+<Device Model="QM-RMC">
+   <Network Type="Ethernet" Id="04">
+      <Device Model="Crestron Mobile" DeviceId="03"/>
+      <Device Model="Crestron App" DeviceId="05"/>
+   </Network>
+</Device>
